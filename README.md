@@ -1,4 +1,4 @@
-## Flutter - Restorant Desing App
+## Flutter - Restorant Desing App / Halil ibrahim  kaya - Desing Codings
 
 Information :
   Restaurant app design creation and responsive features coded with flutter
@@ -11,7 +11,7 @@ Packages Used :
  <div align="left">
 <img src="https://github.com/halilkaya19/Flutter-Restorant-Desing-App/blob/master/images/Screenshot_20250416_161940.png" width="50%"><br>
  </div>   
- <div align="right">
+ <div align="left">
 <img src="https://github.com/halilkaya19/Flutter-Restorant-Desing-App/blob/master/images/Screenshot_20250416_162235.png" width="50%"><br>
  </div>
 
