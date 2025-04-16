@@ -1,20 +1,18 @@
-## Flutter - Restorant Desing App / Halil ibrahim  kaya - Desing Codings
+## Flutter - Restorant Desing App
 
-Information :
+## Information :
   Restaurant app design creation and responsive features coded with flutter
- 
-Packages Used :
+  Halil ibrahim  kaya - Desing Codings
+  
+## Packages Used :
 - Google fonts
 - Animate_do
 - 
  ## Application Design <br>
  <div align="left">
-<img src="https://github.com/halilkaya19/Flutter-Restorant-Desing-App/blob/master/images/Screenshot_20250416_161940.png" width="50%"><br>
+  <img src="https://github.com/halilkaya19/Flutter-Restorant-Desing-App/blob/master/images/Screenshot_20250416_161940.png" width="50%"><br>
+  <img src="https://github.com/halilkaya19/Flutter-Restorant-Desing-App/blob/master/images/Screenshot_20250416_162235.png" width="50%"><br>
  </div>   
- <div align="left">
-<img src="https://github.com/halilkaya19/Flutter-Restorant-Desing-App/blob/master/images/Screenshot_20250416_162235.png" width="50%"><br>
- </div>
-
 
 ## License
 
@@ -36,4 +34,3 @@ The Flutter framework is open-sourced software licensed under the..
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" alt="jest logo"  />
 </div>
 
-###
